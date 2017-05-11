@@ -1,0 +1,10 @@
+# PDT-specific (PHP Development Tools)
+.buildpath
+.project
+.settings/
+
+/conecta.php
+
+/vendor/
+
+/config.php
